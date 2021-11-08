@@ -1,3 +1,3 @@
 # Atividade 2 GC
 
-Gabriel Maia.
+Ribamar Filho, Gabriel Maia.
