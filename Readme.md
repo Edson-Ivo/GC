@@ -1,2 +1,4 @@
 # Atividade 2 GC
-João Pedro
+
+Edson Ivo, Ribamar Filho, Gabriel Maia e João Pedro.
+
